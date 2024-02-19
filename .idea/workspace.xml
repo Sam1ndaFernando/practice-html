@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03bb5fe2-bace-48f3-940b-22376300694a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_elements-types.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_meta-data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_text_formatting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_mutimedia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_hypertext.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/audio/audio_file2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/download.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdf/dummy.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/video/car.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/video/car.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice-html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_forms_input_tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +27,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2cWkMlHrpdJWHoa9N1U8L7Ob4Gc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Saami/OneDrive/Desktop/html-Practic/practice-html/assets/pdf",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Saami/OneDrive/Desktop/html-Practic/practice-html/assets/pdf&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Saami\OneDrive\Desktop\html-Practic\practice-html\assets\pdf" />
@@ -83,11 +71,50 @@
       <workItem from="1708234678021" duration="2000" />
       <workItem from="1708235989720" duration="20000" />
       <workItem from="1708236053592" duration="4769000" />
-      <workItem from="1708266245765" duration="6486000" />
+      <workItem from="1708266245765" duration="6805000" />
+      <workItem from="1708320662525" duration="7854000" />
+      <workItem from="1708346850177" duration="203000" />
+      <workItem from="1708351673801" duration="3874000" />
     </task>
+    <task id="LOCAL-00001" summary="6_hypertext page done">
+      <created>1708328683972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328683972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="7_table page done">
+      <created>1708328707483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328707483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8_sectioning page done">
+      <created>1708328964702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328964702</updated>
+    </task>
+    <task id="LOCAL-00004" summary="9_dev_website_structure page done">
+      <created>1708329002423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708329002423</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6_hypertext page done" />
+    <MESSAGE value="7_table page done" />
+    <MESSAGE value="8_sectioning page done" />
+    <MESSAGE value="9_dev_website_structure page done" />
+    <option name="LAST_COMMIT_MESSAGE" value="9_dev_website_structure page done" />
   </component>
 </project>
