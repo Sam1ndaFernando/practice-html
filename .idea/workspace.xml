@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03bb5fe2-bace-48f3-940b-22376300694a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10_forms_input_tag.html" afterDir="false" />
+    <list default="true" id="03bb5fe2-bace-48f3-940b-22376300694a" name="Changes" comment="10_forms_input_tag">
+      <change afterPath="$PROJECT_DIR$/11_other_form_elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_form_exerise_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,8 @@
       <workItem from="1708266245765" duration="6805000" />
       <workItem from="1708320662525" duration="7854000" />
       <workItem from="1708346850177" duration="203000" />
-      <workItem from="1708351673801" duration="3874000" />
+      <workItem from="1708351673801" duration="6267000" />
+      <workItem from="1708412466584" duration="2458000" />
     </task>
     <task id="LOCAL-00001" summary="6_hypertext page done">
       <created>1708328683972</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708329002423</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="10_forms_input_tag">
+      <created>1708355853231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708355853232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +124,7 @@
     <MESSAGE value="7_table page done" />
     <MESSAGE value="8_sectioning page done" />
     <MESSAGE value="9_dev_website_structure page done" />
-    <option name="LAST_COMMIT_MESSAGE" value="9_dev_website_structure page done" />
+    <MESSAGE value="10_forms_input_tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="10_forms_input_tag" />
   </component>
 </project>
